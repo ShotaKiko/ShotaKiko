@@ -1,7 +1,8 @@
 # Hey there! 👋
 
-My name is Shota Kikozashvili and I'm a Full Stack Web developer. <br>I love to tinker and build cool things that aim to solve real world problems :hammer: :earth_americas:
-<br><br>Currently working at as a Team Lead at Lambda School. :school:
+My name is Shota Kikozashvili and I'm a Full Stack Web developer. 
+<br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
+<br><br>Currently working as a Team Lead at Lambda School. :school:
 <br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
 
 ## 🔧 Technologies & Tools
