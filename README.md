@@ -1,7 +1,8 @@
-# Hello folks! 👋
+# Hey there! 👋
 
-My name is Shota Kikozashvili and I'm a Full Stack Web developer. Currently working at Lambda School as a Team Lead. 
-<br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/)
+My name is Shota Kikozashvili and I'm a Full Stack Web developer. <br>I love to tinker and build cool things that aim to solve real world problems :hammer: :earth_americas:
+<br><br>Currently working at as a Team Lead at Lambda School. :school:
+<br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
@@ -18,16 +19,17 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer. Currently work
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 
-### Currently I am ...
+## :clipboard: About
 - 🔭 I’m currently working on an app called Field Trip Planner 
 - 🌱 I’m currently learning GraphQL and React Native
 - 👯 I’m looking to collaborate on educational/learning apps
 - 💬 Ask me about Lambda School
 - 📫 How to reach me: @ShotaKiko
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: My first name is pronounced like Yoda but with a SH instead
+- ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents arent really Star Wars fans. 
+- :bulb: Other interests: When I'm not coding I like to play :basketball: :football: :tennis: :guitar: and :video_game:
 
-### Stats
+## :bar_chart: Stats
 
 <a href="https://github.com/ShotaKiko/ShotaKiko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShotaKiko&hide=html,&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
