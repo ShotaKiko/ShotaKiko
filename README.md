@@ -12,6 +12,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
@@ -19,6 +20,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 ![](https://img.shields.io/badge/Styling-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ## :clipboard: About
 - 🔭 I’m currently working on an app called Field Trip Planner 
