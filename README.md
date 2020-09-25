@@ -2,7 +2,7 @@
 
 My name is Shota Kikozashvili and I'm a Full Stack Web developer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
-<br><br>Currently working as a Team Lead at Lambda School. :school:
+<br><br>Currently working as a Technical Project Lead at Lambda School. :school:
 <br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
 
 ## 🔧 Technologies & Tools
@@ -29,7 +29,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 - 💬 Ask me about Lambda School
 - 📫 How to reach me: @ShotaKiko
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents arent really Star Wars fans. 
+- ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
 - :bulb: Other interests: When I'm not coding I like to play :basketball: :football: :tennis: :guitar: and :video_game:
 
 ## :bar_chart: Stats
