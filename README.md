@@ -24,7 +24,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 
 ## :clipboard: About
 - 🔭 I’m currently working on an app called Field Trip Planner 
-- 🌱 I’m currently learning GraphQL and React Native
+- 🌱 I’m currently learning Rust and Web Assembly
 - 👯 I’m looking to collaborate on educational/learning apps
 - 💬 Ask me about Lambda School
 - 📫 How to reach me: @ShotaKiko
