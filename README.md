@@ -26,7 +26,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 - 🔭 I’m currently working on an app called Field Trip Planner 
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on educational/learning apps
-- 💬 Ask me about Lambda School
+- 💬 Ask me about Web Assembly
 - 📫 How to reach me: @ShotaKiko
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
