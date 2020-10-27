@@ -2,7 +2,7 @@
 
 My name is Shota Kikozashvili and I'm a Full Stack Web developer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
-<br><br>Currently working as a Technical Project Lead at Lambda School. :school:
+<br><br>Working as a Junior Web Developer at LiveView Technologies.
 <br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
 
 ## 🔧 Technologies & Tools
@@ -24,7 +24,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 
 ## :clipboard: About
 - 🔭 I’m currently working on an app called Field Trip Planner 
-- 🌱 I’m currently learning Rust and Web Assembly
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on educational/learning apps
 - 💬 Ask me about Lambda School
 - 📫 How to reach me: @ShotaKiko
