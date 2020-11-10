@@ -13,6 +13,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=webassembly&logoColor=white&color=654FF0)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
