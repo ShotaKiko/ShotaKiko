@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Shota Kikozashvili and I'm a Full Stack Web developer. 
+My name is Shota Kikozashvili and I'm a Full Stack Web Developer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
 <br><br>Working as a Junior Web Developer at LiveView Technologies.
 <br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
@@ -31,7 +31,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web developer.
 - 📫 How to reach me: @ShotaKiko
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
-- :bulb: Other interests: When I'm not coding I like to play :basketball: :football: :tennis: :guitar: and :video_game:
+- :bulb: Other interests: When I'm not coding I like to play :basketball: :tennis: :guitar: and :video_game:
 
 ## :bar_chart: Stats
 
