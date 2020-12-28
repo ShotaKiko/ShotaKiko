@@ -29,7 +29,6 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 - 👯 I’m looking to collaborate on educational/learning apps
 - 💬 Ask me about Web Assembly
 - 📫 How to reach me: @ShotaKiko
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
 - :bulb: Other interests: When I'm not coding I like to play :basketball: :tennis: :guitar: and :video_game:
 
