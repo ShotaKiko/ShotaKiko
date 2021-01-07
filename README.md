@@ -25,7 +25,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 
 ## :clipboard: About
 - 🔭 I’m currently working on an app called Field Trip Planner 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and Seed
 - 👯 I’m looking to collaborate on educational/learning apps
 - 💬 Ask me about Web Assembly
 - 📫 How to reach me: @ShotaKiko
