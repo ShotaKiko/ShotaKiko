@@ -24,10 +24,10 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ## :clipboard: About
-- 🔭 I’m currently working on an app called Field Trip Planner 
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on educational/learning apps
-- 💬 Ask me about Web Assembly
+- 🔭 I’m currently working on an app focused on trading video game POTGs (play of the game) nfts
+- 🌱 I’m currently learning Solana, NFTs, Smart Contracts 
+- 👯 I’m looking to collaborate on web3/crypto/nft apps
+- 💬 Ask me about Rust and why I love it so much
 - 📫 How to reach me: @ShotaKiko
 - ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
 - :bulb: Other interests: When I'm not coding I like to play :basketball: :tennis: :guitar: and :video_game:
