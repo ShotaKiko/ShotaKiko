@@ -2,7 +2,7 @@
 
 My name is Shota Kikozashvili and I'm a Full Stack Web Developer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
-<br><br>Working as a Junior Web Developer at LiveView Technologies.
+<br><br>Working as a Web Developer at LiveView Technologies.
 <br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
 
 ## 🔧 Technologies & Tools
@@ -36,9 +36,5 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 
 <a href="https://github.com/ShotaKiko/ShotaKiko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShotaKiko&hide=html,&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/ShotaKiko/ShotaKiko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShotaKiko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shota's GitHub Stats" />
 </a>
 
