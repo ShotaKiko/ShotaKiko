@@ -2,8 +2,7 @@
 
 My name is Shota Kikozashvili and I'm a Full Stack Web Developer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:
-<br><br>Working as a Web Developer at LiveView Technologies.
-<br>You can find some of my projects at [shotakiko.com](https://shotakiko.com/) :computer:
+<br><br>Working as a Program Developer III at Boehringer Ingelheim.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
@@ -16,17 +15,11 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 ![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=webassembly&logoColor=white&color=654FF0)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
-![](https://img.shields.io/badge/Styling-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=563D7C)
 ![](https://img.shields.io/badge/Styling-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
-![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
-![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ## :clipboard: About
-- 🔭 I’m currently working on an app focused on trading video game POTGs (play of the game) nfts
 - 🌱 I’m currently learning Solana, NFTs, Smart Contracts 
-- 👯 I’m looking to collaborate on web3/crypto/nft apps
 - 💬 Ask me about Rust and why I love it so much
 - 📫 How to reach me: @ShotaKiko
 - ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
