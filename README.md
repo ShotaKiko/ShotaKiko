@@ -22,7 +22,7 @@ My name is Shota Kikozashvili and I'm a Full Stack Web Developer.
 - 🌱 I’m currently learning Solana, NFTs, Smart Contracts 
 - 💬 Ask me about Rust and why I love it so much
 - 📫 How to reach me: @ShotaKiko
-- ⚡ Fun fact: My first name is pronounced like Yoda :flashlight: but my parents aren't really Star Wars fans. 
+- ⚡ Fun fact: My first name is pronounced like Yoda but with an "sh" :flashlight: 
 - :bulb: Other interests: When I'm not coding I like to play :basketball: :tennis: :guitar: and :video_game:
 
 ## :bar_chart: Stats
