@@ -2,8 +2,8 @@
 
 My name is Shota Kikozashvili and I'm a Full Stack Software Engineer. 
 <br>I love to tinker and build cool things that aim to solve real world problems. :hammer: :earth_americas:<br>
-<br>Software engineer with over five years experience in full stack web development. Dedicated to building scalable solutions for real world problems through appropriately simple and maintainable cod
-<br><br>Working as a Program Developer III at Boehringer Ingelheim.
+<br>Software engineer with over five years experience in full stack web development. Dedicated to building scalable solutions for real world problems through appropriately simple and maintainable code
+<br><br>Working as a Senior Software Engineer at Mastercard, focusing in cryptography.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
